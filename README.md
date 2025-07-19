@@ -13,7 +13,7 @@ This dashboard provides actionable insights into an e-commerce company’s sales
  ---
 
  ## Highlights
- #### Business Problem
+ ### Business Problem
  The company is experiencing issues understanding how well its products are performing, where orders are getting delayed or stuck, and what customer behavior patterns are driving revenue.
  They need a centralized dashboard to:
  * Understand revenue distribution across product categories and regions.
@@ -22,7 +22,8 @@ This dashboard provides actionable insights into an e-commerce company’s sales
  * Identify underperforming product categories or regions for strategic focus.
 
 
- #### Key Visuals used
+
+ ### Key Visuals used
 🟦 Cards: Total Revenue, Total Orders, Total Customers
 These provide a quick overview of the business performance at a glance. They highlight the overall scale of transactions, helping stakeholders immediately understand the platform’s size and impact.
 
@@ -42,7 +43,8 @@ Offers a detailed, accurate view of average revenue per order across states, use
 Interactive slicers were added to enable dynamic filtering of the visuals. This allows users to perform segment-wise analysis, such as filtering by a specific product category, customer location, or approval status to explore patterns more deeply.
 
 
-#### Business Impact and Insights
+
+### Business Impact and Insights
 1. Top Category Focus
 Toys contribute 74.83% of total revenue, dominating all other categories. Music, Furniture Mattress, and Fashion Sport underperform, signaling the product team to rework or phase them out.
 
@@ -57,7 +59,7 @@ These states are highly profitable yet underutilized. Targeted local ads or disc
 Peak revenue occurred in Nov 2017 at $1.3M, revealing strong seasonal patterns. Plan campaigns and product launches around these months.
 
 5. Order Approval Efficiency
-With 99.9% of orders approved and just 7 unapproved, workflows are efficient. Still, edge cases in São Paulo (3 orders), Rio De Janeiro (2), Rio Grande D Sul(1) and Massachusetts(1) can be reviewed.
+With 99.9% of orders approved and just 7 unapproved, workflows are efficient. Still, edge cases in São Paulo (3 orders), Rio De Janeiro (2), Rio Grande Do Sul(1) and Massachusetts(1) can be reviewed.
 
 6. Top 10 States = 89% of Business
 These states account for 89.5% of orders and 88.5% of revenue. Focus sales, logistics, and marketing efforts here to maximize ROI.
