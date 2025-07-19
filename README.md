@@ -35,7 +35,8 @@ This chart displays the highest revenue generating product categories & product,
 🗺 Line and Stacked Column Chart: States by Revenue and Order Volume
 This dual-axis chart compares state-wise performance using both revenue and order volume. It allows us to identify top-performing regions, detect mismatches between order count and revenue, and support region-specific strategies.
 
-
+📋 Table : Revenue per Order by State
+Offers a detailed, accurate view of average revenue per order across states, useful for spotting high value regions.
 
 🎚 Slicers: Product Category, Customer State, Approval Status
 Interactive slicers were added to enable dynamic filtering of the visuals. This allows users to perform segment-wise analysis, such as filtering by a specific product category, customer location, or approval status to explore patterns more deeply.
@@ -49,7 +50,8 @@ Toys contribute 74.83% of total revenue, dominating all other categories. Music,
 São Paulo alone drives 42.29% of total orders, followed by Rio de Janeiro and Minas Gerais. Marketing should prioritize these for campaigns and promotions.
 
 3. Growth Opportunity Regions
-States with low order volume but decent revenue per order show potential. Targeted local ads or discount strategies can boost demand in these areas.
+Roraima has the lowest order volume (12 orders) but highest revenue per order at $280, followed by Amazonas and Acre, each with under 52 orders but strong revenue per order.
+These states are highly profitable yet underutilized. Targeted local ads or discount strategies can boost demand in these areas.
 
 4. Seasonal Trends
 Peak revenue occurred in Nov 2017 at $1.3M, revealing strong seasonal patterns. Plan campaigns and product launches around these months.
